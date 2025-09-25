@@ -1,0 +1,7 @@
+{
+    "sales": [
+        "[New Sales] by admin - B0014718 at centralcafekh\nAmount: 7,000 ៛\nPaid: 7,000 ៛\nPlace: Table 1\nItems Summary:\n1 x Iced Latte  \nView Invoice",
+        "[New Sales] by admin - B0014717 at centralcafekh\nAmount: 17,000 ៛\nPaid: 17,000 ៛\nPlace: Table 1\nItems Summary:\n1 x Iced Matcha Espresso Latte  \n1 x Iced Kampot Salted Cream Latte  \nView Invoice"
+    ],
+    "shift_handover": "[Shift Handover] Shift Handover Report\n               Store: centralcafekh\n               Outlet:\n               Seller: admin\n               Shift Open Time: 24/09/2025 07:31:52\n               Shift Closing Time: 24/09/2025 16:28:25\n               Shift Open Amount: 40,500\n               Shift Closing Amount: 204,000\n               Shift Transfer Amount: 204,000\n               Note:\n               Total Paid: 414,935  (Cash 131,550 Bank 283,385)\n               Total Product Qty.: 62\n               Total Amount: 414,935\n               Total Discount: 9,665\n               Total Surcharge: 0\n               Total Promotion Amount: 0\n               Total COD Amount: 0\n               Missing Payment Count: 0\n               Missing Payment Amount: 0\n               Loss/Gain Amount: 31,950\n               Url: https://centralcafekh.hangpopok.com/shifthandover/4fc63c06feb5c0baa994b11b55076bf1"
+}
